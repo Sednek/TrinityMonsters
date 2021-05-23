@@ -1,5 +1,5 @@
 #TrinityMonsters
-DB: 
+##DB: 
 CREATE TABLE users
 (
     id SERIAL PRIMARY key,
