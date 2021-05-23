@@ -22,3 +22,4 @@ CREATE TABLE likes
     user_id INTEGER REFERENCES users (id),
     date VARCHAR not null
 );
+
